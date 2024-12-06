@@ -1,0 +1,13 @@
+.contain{
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 10%;
+}
+
+.online{
+    color: rgb(65, 170, 34);
+}
+
+.offline{
+    color: rgb(168, 24, 24);
+}
